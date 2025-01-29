@@ -115,55 +115,55 @@
     "id": 17,
     "titulo": "Ração Goldem para Gatos",
     "categoria": "gato",
-    "preco": 200.0,
+    "preco": 140.0,
     "imagem": "https://images.petz.com.br/fotos/1658415086408_mini.jpg"
   },
   {
     "id": 18,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Ração Zootenkna",
     "categoria": "aves",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 10.0,
+    "imagem": "https://images.petz.com.br/fotos/1615571103677_mini.jpg"
   },
   {
     "id": 19,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Ração Reino das Aves Calopsita",
     "categoria": "aves",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 20.0,
+    "imagem": "https://images.petz.com.br/fotos/40013030000812_1730811259880_mini.jpg"
   },
   {
     "id": 20,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Ração Reino das Aves Beija-flor",
     "categoria": "aves",
     "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "imagem": "https://images.petz.com.br/fotos/40013030000776_1730810189220_mini.jpg"
   },
   {
     "id": 21,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Ração Sempre Vita Periquitos",
     "categoria": "aves",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 20.0,
+    "imagem": "https://images.petz.com.br/fotos/40013030000165-1_mini.jpg"
   },
   {
     "id": 22,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Alimento Nutrópica",
     "categoria": "aves",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 90.0,
+    "imagem": "https://images.petz.com.br/fotos/1560353560256_mini.jpg"
   },
   {
     "id": 23,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Ração Reino das Aves Papagaio",
     "categoria": "aves",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 10.0,
+    "imagem": "https://images.petz.com.br/fotos/40013030000822_1730814356670_mini.jpg"
   },
   {
     "id": 24,
     "titulo": "Antipulgas Zoetis Simparic 20 mg",
-    "categoria": "aves",
+    "categoria": "peixe",
     "preco": 200.0,
     "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
   },
