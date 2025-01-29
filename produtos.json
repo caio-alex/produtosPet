@@ -15,17 +15,17 @@
   },
   {
     "id": 3,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Aquário Boyu 20L",
     "categoria": "peixe",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 500.0,
+    "imagem": "https://images.petz.com.br/fotos/1652967145473_mini.jpg"
   },
   {
     "id": 4,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Ração Nutrópica Calopsita sabor Frutas",
     "categoria": "aves",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 44.0,
+    "imagem": "https://images.petz.com.br/fotos/1552671515810_mini.jpg"
   },
   {
     "id": 5,
@@ -162,38 +162,38 @@
   },
   {
     "id": 24,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Alimento para peixe Tetra",
     "categoria": "peixe",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 50.0,
+    "imagem": "https://images.petz.com.br/fotos/1458598178395_mini.jpg"
   },
   {
     "id": 25,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Medicação Labcon Peixes Bacter",
     "categoria": "peixe",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 39.0,
+    "imagem": "https://images.petz.com.br/fotos/1454964376656_mini.jpg"
   },
   {
     "id": 26,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Teste Labcon Ph",
     "categoria": "peixe",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 19.0,
+    "imagem": "https://images.petz.com.br/fotos/1454964455634_mini.jpg"
   },
   {
     "id": 27,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Ração Nutribetta",
     "categoria": "peixe",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 20.0,
+    "imagem": "https://images.petz.com.br/fotos/1635968782073_mini.jpg"
   },
   {
     "id": 28,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Alimento Poyata para peixe Betta",
     "categoria": "peixe",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 13.0,
+    "imagem": "https://images.petz.com.br/fotos/1671038853959_mini.jpg"
   },
   {
     "id": 29,
@@ -232,20 +232,6 @@
   },
   {
     "id": 34,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
-    "categoria": "casajardim",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
-  },
-  {
-    "id": 35,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
-    "categoria": "casajardim",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
-  },
-  {
-    "id": 36,
     "titulo": "Antipulgas Zoetis Simparic 20 mg",
     "categoria": "casajardim",
     "preco": 200.0,
