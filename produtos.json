@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "titulo": "Ração Seca Nutrilus Pro+ Frango & Carne",
+    "titulo": "Ração Seca Hill",
     "categoria": "cachorro",
     "preco": 129.99,
-    "imagem": "https://www.petlove.com.br/images/products/267509/product/%2820%29_Ra%C3%A7%C3%A3o_Seca_Nutrilus_Pro__Frango___Carne_para_C%C3%A3es_Adultos_2.jpg"
+    "imagem": "https://images.petz.com.br/fotos/1713803501124_mini.jpg"
   },
   {
     "id": 2,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Areia Higiênica Viva Verde",
     "categoria": "gato",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 150.0,
+    "imagem": "https://images.petz.com.br/fotos/1707319108148.jpg"
   },
   {
     "id": 3,
@@ -43,10 +43,10 @@
   },
   {
     "id": 7,
-    "titulo": "Tapete Higiênico Meau Cheirinho Cítrico Slim - 30 uni",
+    "titulo": "Tapete Higiênico Super Secão - 30 uni",
     "categoria": "cachorro",
     "preco": 68.0,
-    "imagem": "https://www.petlove.com.br/images/products/270770/small/_0009_2492322_Meau_Slim_C%C3%ADtrico_%282%29.jpg"
+    "imagem": "https://images.petz.com.br/fotos/1721844807565_mini.jpg"
   },
   {
     "id": 8,
@@ -57,10 +57,10 @@
   },
   {
     "id": 9,
-    "titulo": "Tapete Higiênico Future Pet",
+    "titulo": "Tapete Higiênico Chalesco",
     "categoria": "cachorro",
     "preco": 90.0,
-    "imagem": "https://www.petlove.com.br/images/products/233622/small/Imagem6.png?1627749056.jpg"
+    "imagem": "https://images.petz.com.br/fotos/1594820441639_mini.jpg"
   },
   {
     "id": 10,
@@ -85,43 +85,43 @@
   },
   {
     "id": 13,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Areia Higiênica Pipicat",
     "categoria": "gato",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 50.0,
+    "imagem": "https://images.petz.com.br/fotos/1712674048603_mini.jpg"
   },
   {
     "id": 14,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Ração Úmida GranPlus",
     "categoria": "gato",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 50.0,
+    "imagem": "https://images.petz.com.br/fotos/1673984193226_mini.jpg"
   },
   {
     "id": 15,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Ração Úmida Royal",
     "categoria": "gato",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 40.0,
+    "imagem": "https://images.petz.com.br/fotos/1711656143873_mini.jpg"
   },
   {
     "id": 16,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Granulado Higienico Kat Bom",
     "categoria": "gato",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "preco": 80.0,
+    "imagem": "https://images.petz.com.br/fotos/1666703713768_mini.jpg"
   },
   {
     "id": 17,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "titulo": "Ração Goldem para Gatos",
     "categoria": "gato",
     "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "imagem": "https://images.petz.com.br/fotos/1658415086408_mini.jpg"
   },
   {
     "id": 18,
     "titulo": "Antipulgas Zoetis Simparic 20 mg",
-    "categoria": "gato",
+    "categoria": "aves",
     "preco": 200.0,
     "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
   },
