@@ -8,80 +8,80 @@
   },
   {
     "id": 2,
-    "titulo": "Ração Seca True para Cães Adultos Raças Pequenas",
-    "categoria": "cachorro",
-    "preco": 169.99,
-    "imagem": "https://www.petlove.com.br/images/products/237742/product/Ra%C3%A7%C3%A3o_Seca_True_para_C%C3%A3es_Adultos_Ra%C3%A7as_Pequenas_2638251.jpg"
+    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "categoria": "gato",
+    "preco": 200.0,
+    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
   },
   {
     "id": 3,
-    "titulo": "Ração Seca PremieR Pet Golden",
-    "categoria": "cachorro",
-    "preco": 100.0,
-    "imagem": "https://www.petlove.com.br/images/products/265990/small/Ra%C3%A7%C3%A3o_Seca_PremieR_Pet_Golden_Formula_C%C3%A3es_Adultos_Frango_e_Arroz_Mini_Bits_-_15_Kg_31021721-3_1.jpg"
+    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "categoria": "peixe",
+    "preco": 200.0,
+    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
   },
   {
     "id": 4,
+    "titulo": "Antipulgas Zoetis Simparic 20 mg",
+    "categoria": "aves",
+    "preco": 200.0,
+    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Ração Seca Royal Cães Adultos Raças Pequenas",
+    "categoria": "cachorro",
+    "preco": 169.99,
+    "imagem": "https://images.petz.com.br/fotos/10001320000092_1733747109462_mini.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Ração Seca Premier Pet Golden",
+    "categoria": "cachorro",
+    "preco": 100.0,
+    "imagem": "https://images.petz.com.br/fotos/1656078239241_mini.jpg"
+  },
+  {
+    "id": 7,
     "titulo": "Tapete Higiênico Meau Cheirinho Cítrico Slim - 30 uni",
     "categoria": "cachorro",
     "preco": 68.0,
     "imagem": "https://www.petlove.com.br/images/products/270770/small/_0009_2492322_Meau_Slim_C%C3%ADtrico_%282%29.jpg"
   },
   {
-    "id": 5,
+    "id": 8,
     "titulo": "Coleira Reserva Preta - Tam. Gn",
     "categoria": "cachorro",
     "preco": 50.0,
-    "imagem": "https://www.petlove.com.br/images/products/267156/small/_0005_31027520238__Coleira_Reserva_Preta_2.jpg"
+    "imagem": "https://images.petz.com.br/fotos/1633711861682_mini.jpg"
   },
   {
-    "id": 6,
+    "id": 9,
     "titulo": "Tapete Higiênico Future Pet",
     "categoria": "cachorro",
     "preco": 90.0,
     "imagem": "https://www.petlove.com.br/images/products/233622/small/Imagem6.png?1627749056.jpg"
   },
   {
-    "id": 7,
+    "id": 10,
     "titulo": "Antipulgas e Carrapatos NexGard 28,3 mg",
     "categoria": "cachorro",
     "preco": 100.0,
-    "imagem": "https://www.petlove.com.br/images/products/260163/small/Antipulgas_e_Carrapatos_NexGard_28_3_mg_para_C%C3%A3es_de_4_1_a_10_Kg_-_1_Tablete_3105746_%283%29.jpg"
-  },
-  {
-    "id": 8,
-    "titulo": "Vermífugo Biovet Vermivet Composto 600 mg - 4 compri",
-    "categoria": "cachorro",
-    "preco": 10.0,
-    "imagem": "https://www.petlove.com.br/images/products/265990/small/Ra%C3%A7%C3%A3o_Seca_PremieR_Pet_Golden_Formula_C%C3%A3es_Adultos_Frango_e_Arroz_Mini_Bits_-_15_Kg_31021721-3_1.jpg"
-  },
-  {
-    "id": 9,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
-    "categoria": "cachorro",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
-  },
-  {
-    "id": 10,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
-    "categoria": "gato",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "imagem": "https://images.petz.com.br/fotos/1603125957209_mini.jpg"
   },
   {
     "id": 11,
-    "titulo": "Antipulgas Zoetis Simparic 20 mg",
-    "categoria": "gato",
-    "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "titulo": "Vermífugo Biovet Vermivet Composto 600 mg - 4 compri",
+    "categoria": "cachorro",
+    "preco": 10.0,
+    "imagem": "https://images.petz.com.br/fotos/1649170707881_mini.jpg"
   },
   {
     "id": 12,
     "titulo": "Antipulgas Zoetis Simparic 20 mg",
-    "categoria": "gato",
+    "categoria": "cachorro",
     "preco": 200.0,
-    "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
+    "imagem": "https://images.petz.com.br/fotos/1502309222713_mini.jpg"
   },
   {
     "id": 13,
@@ -251,5 +251,4 @@
     "preco": 200.0,
     "imagem": "https://www.petlove.com.br/images/products/191340/small/3110173-1.jpg"
   }
-  
 ]
