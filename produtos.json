@@ -4,6 +4,7 @@
     "titulo": "Ração Seca Hill",
     "categoria": "cachorro",
     "preco": 129.99,
+    "tipo": "Alimento",
     "imagem": "https://images.petz.com.br/fotos/1713803501124_mini.jpg"
   },
   {
@@ -11,6 +12,7 @@
     "titulo": "Areia Higiênica Viva Verde",
     "categoria": "gato",
     "preco": 150.00,
+    "tipo":"Higiene",
     "imagem": "https://images.petz.com.br/fotos/1707319108148.jpg"
   },
   {
@@ -18,6 +20,7 @@
     "titulo": "Aquário Boyu 20L",
     "categoria": "peixe",
     "preco": 500.00,
+    "tipo":"Ambiente",
     "imagem": "https://images.petz.com.br/fotos/1652967145473_mini.jpg"
   },
   {
@@ -25,6 +28,7 @@
     "titulo": "Ração Nutrópica Calopsita sabor Frutas",
     "categoria": "aves",
     "preco": 44.00,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/1552671515810_mini.jpg"
   },
   {
@@ -32,6 +36,7 @@
     "titulo": "Ração Seca Royal Cães Adultos Raças Pequenas",
     "categoria": "cachorro",
     "preco": 169.99,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/10001320000092_1733747109462_mini.jpg"
   },
   {
@@ -39,6 +44,7 @@
     "titulo": "Ração Seca Premier Pet Golden",
     "categoria": "cachorro",
     "preco": 100.00,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/1656078239241_mini.jpg"
   },
   {
@@ -46,6 +52,7 @@
     "titulo": "Tapete Higiênico Super Secão - 30 uni",
     "categoria": "cachorro",
     "preco": 68.00,
+    "tipo":"Higiene",
     "imagem": "https://images.petz.com.br/fotos/1721844807565_mini.jpg"
   },
   {
@@ -53,6 +60,7 @@
     "titulo": "Coleira Reserva Preta - Tam. Gn",
     "categoria": "cachorro",
     "preco": 50.00,
+    "tipo":"Acessório",
     "imagem": "https://images.petz.com.br/fotos/1633711861682_mini.jpg"
   },
   {
@@ -60,6 +68,7 @@
     "titulo": "Tapete Higiênico Chalesco",
     "categoria": "cachorro",
     "preco": 90.00,
+    "tipo":"Higiene",
     "imagem": "https://images.petz.com.br/fotos/1594820441639_mini.jpg"
   },
   {
@@ -67,6 +76,7 @@
     "titulo": "Antipulgas e Carrapatos NexGard 28,3 mg",
     "categoria": "cachorro",
     "preco": 100.00,
+    "tipo":"Higiene",
     "imagem": "https://images.petz.com.br/fotos/1603125957209_mini.jpg"
   },
   {
@@ -74,6 +84,7 @@
     "titulo": "Vermífugo Biovet Vermivet Composto 600 mg - 4 compri",
     "categoria": "cachorro",
     "preco": 10.00,
+    "tipo":"Higiene",
     "imagem": "https://images.petz.com.br/fotos/1649170707881_mini.jpg"
   },
   {
@@ -81,6 +92,7 @@
     "titulo": "Antipulgas Zoetis Simparic 20 mg",
     "categoria": "cachorro",
     "preco": 200.00,
+    "tipo":"Higiene",
     "imagem": "https://images.petz.com.br/fotos/1502309222713_mini.jpg"
   },
   {
@@ -88,6 +100,7 @@
     "titulo": "Areia Higiênica Pipicat",
     "categoria": "gato",
     "preco": 50.00,
+    "tipo":"Ambiente",
     "imagem": "https://images.petz.com.br/fotos/1712674048603_mini.jpg"
   },
   {
@@ -95,6 +108,7 @@
     "titulo": "Ração Úmida GranPlus",
     "categoria": "gato",
     "preco": 50.00,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/1673984193226_mini.jpg"
   },
   {
@@ -102,6 +116,7 @@
     "titulo": "Ração Úmida Royal",
     "categoria": "gato",
     "preco": 40.00,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/1711656143873_mini.jpg"
   },
   {
@@ -109,6 +124,7 @@
     "titulo": "Granulado Higienico Kat Bom",
     "categoria": "gato",
     "preco": 80.00,
+    "tipo":"Higiene",
     "imagem": "https://images.petz.com.br/fotos/1666703713768_mini.jpg"
   },
   {
@@ -116,6 +132,7 @@
     "titulo": "Ração Goldem para Gatos",
     "categoria": "gato",
     "preco": 140.00,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/1658415086408_mini.jpg"
   },
   {
@@ -123,6 +140,7 @@
     "titulo": "Ração Zootenkna",
     "categoria": "aves",
     "preco": 10.00,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/1615571103677_mini.jpg"
   },
   {
@@ -130,6 +148,7 @@
     "titulo": "Ração Reino das Aves Calopsita",
     "categoria": "aves",
     "preco": 20.00,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/40013030000812_1730811259880_mini.jpg"
   },
   {
@@ -137,6 +156,7 @@
     "titulo": "Ração Reino das Aves Beija-flor",
     "categoria": "aves",
     "preco": 200.00,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/40013030000776_1730810189220_mini.jpg"
   },
   {
@@ -144,6 +164,7 @@
     "titulo": "Ração Sempre Vita Periquitos",
     "categoria": "aves",
     "preco": 20.00,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/40013030000165-1_mini.jpg"
   },
   {
@@ -151,6 +172,7 @@
     "titulo": "Alimento Nutrópica",
     "categoria": "aves",
     "preco": 90.00,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/1560353560256_mini.jpg"
   },
   {
@@ -158,6 +180,7 @@
     "titulo": "Ração Reino das Aves Papagaio",
     "categoria": "aves",
     "preco": 10.00,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/40013030000822_1730814356670_mini.jpg"
   },
   {
@@ -165,6 +188,7 @@
     "titulo": "Alimento para peixe Tetra",
     "categoria": "peixe",
     "preco": 50.00,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/1458598178395_mini.jpg"
   },
   {
@@ -172,6 +196,7 @@
     "titulo": "Medicação Labcon Peixes Bacter",
     "categoria": "peixe",
     "preco": 39.00,
+    "tipo":"Higiene",
     "imagem": "https://images.petz.com.br/fotos/1454964376656_mini.jpg"
   },
   {
@@ -179,6 +204,7 @@
     "titulo": "Teste Labcon Ph",
     "categoria": "peixe",
     "preco": 19.00,
+    "tipo":"Ambiente",
     "imagem": "https://images.petz.com.br/fotos/1454964455634_mini.jpg"
   },
   {
@@ -186,6 +212,7 @@
     "titulo": "Ração Nutribetta",
     "categoria": "peixe",
     "preco": 20.00,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/1635968782073_mini.jpg"
   },
   {
@@ -193,6 +220,7 @@
     "titulo": "Alimento Poyata para peixe Betta",
     "categoria": "peixe",
     "preco": 13.00,
+    "tipo":"Alimento",
     "imagem": "https://images.petz.com.br/fotos/1671038853959_mini.jpg"
   },
   {
@@ -200,6 +228,7 @@
     "titulo": "Adubo All Garden Hummus Minhoca 2kg",
     "categoria": "casajardim",
     "preco": 8.00,
+    "tipo":"Ambiente",
     "imagem": "https://images.petz.com.br/fotos/1706621132827_mini.jpg"
   },
   {
@@ -207,6 +236,7 @@
     "titulo": "Subtrato Biomix Flores",
     "categoria": "casajardim",
     "preco": 35.00,
+    "tipo":"Ambiente",
     "imagem": "https://images.petz.com.br/fotos/1459545421858_mini.jpg"
   },
   {
@@ -214,6 +244,7 @@
     "titulo": "Kit Odorizante Glade",
     "categoria": "casajardim",
     "preco": 60.00,
+    "tipo":"Higiene",
     "imagem": "https://images.petz.com.br/fotos/1723750889792_mini.jpg"
   },
   {
@@ -221,6 +252,7 @@
     "titulo": "Inseticida K-Othrine para Baratas 10g",
     "categoria": "casajardim",
     "preco": 24.00,
+    "tipo":"Higiene",
     "imagem": "https://images.petz.com.br/fotos/60026460000015_1731936487998_mini.jpg"
   },
   {
@@ -228,6 +260,7 @@
     "titulo": "Terra Vegetal",
     "categoria": "casajardim",
     "preco": 30.00,
+    "tipo":"Ambiente",
     "imagem": "https://images.petz.com.br/fotos/1721745171467_mini.jpg"
   },
   {
@@ -235,6 +268,7 @@
     "titulo": "Terra Vegetal Biomix" ,
     "categoria": "casajardim",
     "preco": 11.00,
+    "tipo":"Ambiente",
     "imagem": "https://images.petz.com.br/fotos/1613393163220_mini.jpg"
   }
 ]
